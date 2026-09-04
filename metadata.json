@@ -1,0 +1,6 @@
+{
+  "name": "Garments Line Balancing",
+  "description": "Garments factory input-output tracking, line balancing, WIP balance monitoring, operator manpower allocation, and production reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
